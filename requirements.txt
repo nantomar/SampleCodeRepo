@@ -1,0 +1,11 @@
+#Python version 3.10.12
+imbalanced-learn==0.12.4
+joblib==1.4.2
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+seaborn==0.13.2
+statsmodels==0.14.4
+xgboost==2.1.2
